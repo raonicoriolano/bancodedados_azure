@@ -8,3 +8,12 @@ Usar um banco de dados do Microsoft Azure permite flexibilidade e possiblidade d
 O Microsoft Azure possui as seguintes possibilidades: <br>
 1) Banco de Dados do Azure para servidores flexíveis do PostgreSQL<br>
 2) Hiperescala do Banco de Dados SQL do Azure<br>
+3) Banco de dados SQL<br>
+4) Instâncias gerenciadas do SQL.
+5) Máquinas virtuais do SQL<br>
+<br>
+Há diversos outros recursos de bancos de dados que podem ser acessados a partir do Microsoft Azure.<br>
+<br>
+Vamos aprender a configurar um banco de dados SQL?<br>
+<br>
+No dashboard, 
