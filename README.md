@@ -1,6 +1,8 @@
 # bancodedados_azure
 <h1> Nessa seção, vamos estudar a implementação de uma instância de banco de dados no Microsoft Azure. </h1>
 <br>
+<em>Atividade para o bootcamp da XP Inc.</em><br>
+<br>
 O Microsoft Azure permite a crianção de banco de dados utilizando a infraestrutura de nuvem da Microsoft.<br>
 <br> 
 Usar um banco de dados do Microsoft Azure permite flexibilidade e possiblidade de ampliação de armazenamento e capacidade computacional <em>on-demand</em>.<br>
